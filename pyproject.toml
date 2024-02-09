@@ -12,6 +12,7 @@ southwest-headers = 'southwest_headers.main:get_headers'
 [tool.poetry.dependencies]
 python = "^3.9"
 undetected-chromedriver = "^3.5.4"
+selenium-wire = "^5.1.0"
 
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.2.1"
